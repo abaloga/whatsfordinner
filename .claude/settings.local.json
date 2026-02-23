@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx create-expo-app@latest:*)",
+      "Bash(npx expo install:*)",
+      "Bash(node -e:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
